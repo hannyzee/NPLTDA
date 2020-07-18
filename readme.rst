@@ -1,1 +1,1 @@
-An inventory system
+This application is built to help an outsourcing company keep track of all her employee's in other to pay them daily or weekly employees are assigned a timecard which contains their personal details and the project they are working on, the app also stores the data of all clients and project the company has worked on for transparency
